@@ -2,3 +2,7 @@ i am a test txt
 换行测试
 print hello
 77777777777777777
+we
+we
+we
+we
